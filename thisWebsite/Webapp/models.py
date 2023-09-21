@@ -4,7 +4,7 @@ class Person(models.Model):  # Updated class name to follow naming conventions
     first_name = models.CharField(max_length=25)
     last_name = models.CharField(max_length=25)
     def __str__(self):
-        return self.first_name +" "+ self.last_name
+        return self.first_name + self.last_name
 
 class Product(models.Model):  # Updated class name to follow naming conventions
     title = models.CharField(max_length=225)
