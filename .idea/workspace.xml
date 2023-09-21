@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc6bc5e6-5c00-4e3b-8a98-9c42faa8904e" name="Changes" comment="config successfull add any app">
-      <change beforePath="$PROJECT_DIR$/thisWebsite/Webapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/thisWebsite/Webapp/models.py" afterDir="false" />
+    <list default="true" id="dc6bc5e6-5c00-4e3b-8a98-9c42faa8904e" name="Changes" comment="issue in accessing cockroach db">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/products.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/services.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thisWebsite/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/thisWebsite/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thisWebsite/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/thisWebsite/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thisWebsite/templates/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/thisWebsite/templates/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thisWebsite/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/thisWebsite/templates/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/websiteapp/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +37,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Apuri-Amarnath"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Apuri-Amarnath&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -37,27 +51,30 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2VhHY2kGXU9PyCDtCqYxDruqAoA" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/python project/App",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/python project/App&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
