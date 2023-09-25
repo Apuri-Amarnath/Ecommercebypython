@@ -1,5 +1,5 @@
 from django.shortcuts import render
-
+from .models import Product
 # Create your views here.
 def index(request):
     contextvars={
@@ -9,8 +9,9 @@ def index(request):
 def about(request):
     contextvars={}
     return render(request,"about.html",contextvars)
-def product(request):
-    contextvars={}
+def products(request):
+    products = Product.objects.all()
+    contextvars={'products':products}
     return render(request,'products.html',contextvars)
 def services(request):
     contextvars={}
